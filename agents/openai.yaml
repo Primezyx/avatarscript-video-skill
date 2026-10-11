@@ -1,0 +1,4 @@
+interface:
+  display_name: "角色口播视频"
+  short_description: "用 AvatarScript 制作角色口播视频，支持中文配音、口型、动作和字幕"
+  default_prompt: "使用 $avatarscript-video 让角色用中文朗读我的台词，加入合适的动作和字幕，生成视频。"
